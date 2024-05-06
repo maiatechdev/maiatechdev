@@ -45,7 +45,7 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
+![Eclipse](https://camo.githubusercontent.com/5a9c59f3e0a43cf4cd2a7e557c0c31239d93fb3a38ecfc2940869bc6936bb3ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45636c697073652d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d65636c69707365266c6f676f436f6c6f723d324332323535)&nbsp;
 &nbsp;
 &nbsp;
 
