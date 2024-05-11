@@ -1,12 +1,17 @@
-## Hi, my name Gabriel Maia 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABRIEL+MAIA;I'm+19+years+old;I+am+from+Salvador,+BA;I+study+analysis+and+systems+development+at+UCSAL;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br>  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>backend mid-level developer</strong> focused on web development.</p>&nbsp;
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maiatechdev&show_icons=true&count_private=true&hide_border=true&title_color=8F0D87&icon_color=8F0D87&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Maia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiatechdev&layout=compact&hide_border=true&title_color=8F0D87&text_color=8F0D87&bg_color=0d1117" />
+</div>
 
+&nbsp;
 
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maiatechdev&bg_color=000000&color=8F0D87&line=8F0D87&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Skills
 
@@ -59,6 +64,9 @@
 </div>&nbsp;&nbsp;
  
 
-  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{maiatechdev}/count.svg" /></p> 
+<br></div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
